@@ -28,13 +28,13 @@ educate users and devlopers about:
 
 . **Webhook**: data exfiltration
 
+. **VM** (Isolated testing environment)
+
 
 
 ## Testing:
 to test this demo:
-### Prerequisites:
-- Own both test Discored Accounts
-- a VM (Isolated testing environment)
+
 
 ### Testing steps:
 - Create a dedicated Discord server for testing
