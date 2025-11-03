@@ -16,17 +16,17 @@ educate users and devlopers about:
 4. attacker can use token to access the account
 
 ## Requirements:
-Python 3.11+
+. Python 3.11+
 
-pip install **pyinstaller** discord.py requests
+. pip install **pyinstaller** discord.py requests
 
-**QR Code**: Social engineering vector  
+. **QR Code**: Social engineering vector  
 
-**Client-side** script: Token extraction logic  
+. **Client-side** script: Token extraction logic  
 
-**Fake Discord account** : (for webhook)
+. **Fake Discord account** : (for webhook)
 
-**Webhook**: data exfiltration
+. **Webhook**: data exfiltration
 
 
 
