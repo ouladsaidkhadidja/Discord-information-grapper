@@ -16,8 +16,10 @@ attacker can use token to access the account
 
 ## Requirements:
 
-**QR Code**: Social engineering vector
-**Client-side** script: Token extraction logic
+**QR Code**: Social engineering vector  
+
+**Client-side** script: Token extraction logic  
+
 **Webhook**: data exfiltration
 
 ## Testing:
@@ -60,7 +62,7 @@ to test this demo:
 5. Contact Discord Trust & Safety if needed
 
 
-## Educationalresources: 
+## Educational resources: 
 
 [Discord Security Tips](https://discord.com/safety)
 
