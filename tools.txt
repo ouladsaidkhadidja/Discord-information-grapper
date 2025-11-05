@@ -1,4 +1,0 @@
-required_libraries = [
-  'requests', 'json', 'base64', 'urllib', 'urllib.request', 'datetime', 'logging', 'sqlite3', 
-  'Crypto.Cipher', 'win32crypt', 'time', 'colorama', 'pywin32', 'pycryptodome'
-]
