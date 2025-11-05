@@ -39,7 +39,7 @@ educate users and devlopers about:
 
 2. It appears to the victim a black screen with Shellmates logo.
 
-   <img width="1918" height="1000" alt="done" src="https://github.com/user-attachments/assets/692090ca-9720-4fe7-830a-f2de923571e8" />
+<img width="1918" height="1000" alt="done" src="https://github.com/user-attachments/assets/692090ca-9720-4fe7-830a-f2de923571e8" />
 
 
 3. The attacker recives the Discord webhook embed output.
@@ -48,7 +48,7 @@ educate users and devlopers about:
 
 4. The attacker must go to the discord.com**/login** (doesn't work on discord.com), open developer tools (Shift+Ctrl+i), go to "Console" and type "allow pasting", then paste the "Ready Token Login" :
    
-   <img width="1915" height="1024" alt="console" src="https://github.com/user-attachments/assets/45bedd40-4b5e-4dad-aefe-611bce15d180" />
+<img width="1915" height="1024" alt="console" src="https://github.com/user-attachments/assets/45bedd40-4b5e-4dad-aefe-611bce15d180" />
    
 5. Login to the account succsesfuly ✅.
    
