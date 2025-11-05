@@ -1,7 +1,7 @@
-# Discord-token-graper
+# Discord-Token-Grapper
 
 ## Explanation :
-This demonstration shows a **real Discord token graper** that steals the victim’s session by just oppening the malicious .exe file (demo 1 ) and how malicious QR codes can be used to compromise Discored accounts (demo 2)  
+This demonstration shows a **Real Discord Token Grapper** that steals the victim’s session by just oppening the malicious .exe file (demo 1 ) and how malicious QR codes can be used to compromise Discored accounts (demo 2)  
 . purpose:  
 educate users and devlopers about:
 - Social engineering risks
@@ -44,10 +44,10 @@ educate users and devlopers about:
    
 <img width="551" height="832" alt="output" src="https://github.com/user-attachments/assets/fad86e2f-8e1d-40cd-87b5-8cf45adc3158" />
 
-5. the attacker must go to the **discord.com/login** , open console and type "allow pasting" , then add the token :
+4. the attacker must go to the **discord.com/login** , open console and type "allow pasting" , then add the token :
    
    <img width="1915" height="1024" alt="console" src="https://github.com/user-attachments/assets/45bedd40-4b5e-4dad-aefe-611bce15d180" />
-6. login to the account succsesfuly 
+5. login to the account succsesfuly 
    
 <img width="1919" height="1031" alt="login" src="https://github.com/user-attachments/assets/43ed2f43-14ae-47eb-9074-594446a40fc5" />
 
