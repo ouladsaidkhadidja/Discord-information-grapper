@@ -10,7 +10,7 @@ educate users and devlopers about:
 - QR code phishing awareness
 
 ## Tutorial : 
-1. User scans a QR code that holdes the .exe file
+1. The victim opens the file.exe
 2. the script extracts the discord token from local storage
 3. token is sent to attacker via Discored webhook
 4. attacker can use token to access the account
