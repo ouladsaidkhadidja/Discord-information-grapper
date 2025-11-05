@@ -55,11 +55,6 @@ educate users and devlopers about:
 <img width="1919" height="1031" alt="login" src="https://github.com/user-attachments/assets/43ed2f43-14ae-47eb-9074-594446a40fc5" />
 
 
-## Demo 2 : 
-
-
-
-
 ### Testing steps:
 
 - Create a dedicated Discord server for testing.
