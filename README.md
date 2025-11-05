@@ -1,7 +1,7 @@
-# Discord-information-grapper
+# Discord-token-graper
 
 ## Explanation :
-This demonstration shows a **real Discord token grabber** that steals the victim’s session and how malicious QR codes can be used to compromise Discored accounts 
+This demonstration shows a **real Discord token graper** that steals the victim’s session and how malicious QR codes can be used to compromise Discored accounts 
 . purpose:  
 educate users and devlopers about:
 - Social engineering risks
