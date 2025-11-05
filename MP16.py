@@ -9,7 +9,6 @@ import time
 import datetime
 from threading import Thread
 
-
 try:
     from Crypto.Cipher import AES
     import win32crypt
