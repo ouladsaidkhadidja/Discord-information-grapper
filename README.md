@@ -1,8 +1,9 @@
-# Discord-Token-Grapper
+# Discord-Token-Grabber
 
 ## Explanation :
 
-This demonstration shows a **Discord Token Grapper** that steals the victim’s session by just oppening the malicious.exe file (demo 1) and how malicious QR codes can be used to compromise Discored accounts (demo 2)  
+This demonstration shows a **Discord Token Grabber** that steals the victim’s session by just oppening the malicious.exe file. it  
+Extracts Discord tokens from browsers & apps (Chrome, Brave, Edge, Opera, Firefox, etc.), decrypts them using Windows DPAPI & AES-GCM, validates via Discord API, then sends victim's details (username, ID, email, phone, IP, location, badges, PC name, full token + auto-login script) to a Discord webhook as a rich embed.
 
 ## Purpose:  
 educate users and devlopers about:
