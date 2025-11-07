@@ -9,7 +9,7 @@ educate users and devlopers about:
 - Social engineering risks
 - Discord token security
 - Webhook-based data exfiltration
-- QR code phishing awareness
+
 
 ## Tutorial : 
 
